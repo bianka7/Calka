@@ -1,0 +1,2 @@
+# Calka
+Liczenie całki oznaczonej
