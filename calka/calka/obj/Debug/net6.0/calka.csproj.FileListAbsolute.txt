@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\calka\calka\bin\Debug\net6.0\calka.exe
+C:\Users\Asus\Desktop\calka\calka\bin\Debug\net6.0\calka.deps.json
+C:\Users\Asus\Desktop\calka\calka\bin\Debug\net6.0\calka.runtimeconfig.json
+C:\Users\Asus\Desktop\calka\calka\bin\Debug\net6.0\calka.dll
+C:\Users\Asus\Desktop\calka\calka\bin\Debug\net6.0\calka.pdb
+C:\Users\Asus\Desktop\calka\calka\obj\Debug\net6.0\calka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\calka\calka\obj\Debug\net6.0\calka.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\calka\calka\obj\Debug\net6.0\calka.AssemblyInfo.cs
+C:\Users\Asus\Desktop\calka\calka\obj\Debug\net6.0\calka.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\calka\calka\obj\Debug\net6.0\calka.dll
+C:\Users\Asus\Desktop\calka\calka\obj\Debug\net6.0\refint\calka.dll
+C:\Users\Asus\Desktop\calka\calka\obj\Debug\net6.0\calka.pdb
+C:\Users\Asus\Desktop\calka\calka\obj\Debug\net6.0\calka.genruntimeconfig.cache
+C:\Users\Asus\Desktop\calka\calka\obj\Debug\net6.0\ref\calka.dll
