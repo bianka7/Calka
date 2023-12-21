@@ -1,0 +1,28 @@
+
+Całki są powszechnie stosowane w informatyce w różnych dziedzinach. Oto kilka przykładów zastosowania całek w informatyce:
+
+Analiza Algorytmów:
+Całki mogą być używane do analizy złożoności czasowej algorytmów. Przy obliczaniu całek z funkcji opisujących czas wykonania algorytmu można uzyskać informacje o czasie potrzebnym do wykonania operacji w zależności od rozmiaru danych.
+
+Grafika Komputerowa:
+W grafice komputerowej całki mogą być używane do obliczania powierzchni, masy, środka ciężkości itp. obiektów trójwymiarowych. Również w renderowaniu obrazów i grafiki trójwymiarowej wykorzystuje się całki do obliczeń światła, cieni, tekstur itp.
+
+Bazy Danych i Statystyka:
+Całki mogą być używane w bazach danych do obliczania sum, średnich, odchyleń standardowych i innych miar statystycznych dla dużych zbiorów danych.
+
+Szyfrowanie i Bezpieczeństwo:
+W kryptografii, całki mogą być stosowane do obliczeń związanych z bezpieczeństwem, takich jak obliczenia związane z funkcjami skrótu, generowanie kluczy i wiele innych aspektów zabezpieczeń.
+
+Rozpoznawanie Mowy i Obrazu:
+W dziedzinie przetwarzania sygnałów, całki mogą być używane do analizy i przetwarzania dźwięków, obrazów i sygnałów.
+
+Inżynieria Oprogramowania:
+Całki mogą być stosowane do analizy jakości oprogramowania, ilości błędów, efektywności, a także do modelowania procesów biznesowych.
+
+Rozwiązywanie Równań Różniczkowych:
+W obliczeniach numerycznych i symulacjach, całki mogą być używane do rozwiązywania równań różniczkowych, które występują w modelach matematycznych opisujących różne procesy w informatyce.
+
+Analiza Sygnałów:
+W dziedzinie przetwarzania sygnałów cyfrowych, całki mogą być używane do analizy i przetwarzania sygnałów czasowych i częstotliwościowych.
+
+Te przykłady ilustrują, jak różne dziedziny informatyki wykorzystują całki do rozwiązywania problemów i prowadzenia analiz. Całki są potężnym narzędziem matematycznym, które znajduje zastosowanie w różnych aspektach informatyki i inżynierii komputerowej.
