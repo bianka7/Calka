@@ -1,0 +1,10 @@
+dodawanie branchy i plików używając gita i visual studio code
+
+otwieramy terminal ctrl + `
+
+git checkout -b <new-branch> pozwala na stworzenie nowej gałęzi a -b odpowiada za otworzenie tej gałęzi po jej utworzeniu
+
+git checkout <branch> pozwala na przełączanie się pomiędzy gałęziami
+
+git push -u origin <new-branch2> dzieki tej komendzie dodaliśmy nowego brancha używając gita i visual studio code
+
